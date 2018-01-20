@@ -1,5 +1,5 @@
 Description: 
-OpenVayu is a non-profit broad-range air quality and climate change research organization. Our objective is to study and analyze the air around us to help us better understand its impact on our lifestyle and the world, at large. Currently, we are working on Vayu, a technology that aims to spread widespread awareness air pollution in Delhi and how to tackle it.
+OpenVayu is a startup that is consistently working towards improving the air quality around the world. We build products with the sole objective of reducing the effect of pollution in our day-to-day lives. Our objective is to study and analyze the air around us to help us better understand its impact on our lifestyle and the world, at large.
 
 Having any issues file a [GitHub Issue](https://github.com/ChaitanyaBaweja/ChaitanyaBaweja.github.io/issues).
 
